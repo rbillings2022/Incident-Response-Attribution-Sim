@@ -1,0 +1,10 @@
+Source: Microsoft-Windows-Security-Auditing
+
+
+Date: 2023-4-19 08:44:06, Event ID: 4624, Task Category: Logon, User: Jane Doe, Computer: USER1, Subject:, Security ID: SYSTEM, Account Name: WIN-R9H529RIO4Y$, Account Domain: BORINGOFFICE, Logon ID: 0x3e7, Logon Type: 10
+
+Date: 2023-4-19 09:15:20, Event ID: 4634, Task Category: Logoff, User: Jane Doe, Computer: USER1, Subject:, Security ID: SYSTEM, Account Name: WIN-R9H529RIO4Y$, Account Domain: BORINGOFFICE, Logon ID: 0x3e7, Logon Type: 10
+
+Date: 2023-4-19 12:11:13, Event ID: 4624, Task Category: Logon, User: John Doe, Computer: USER2, Subject:, Security ID: SYSTEM, Account Name: WIN-S3L910SE45K!, Account Domain: BORINGOFFICE, Logon ID: 0x3d6, Logon Type: 3
+
+Date: 2023-4-19 12:56:14, Event ID: 4634, Task Category: Logoff, User: John Doe, Computer: USER2, Subject:, Security ID: SYSTEM, Account Name: WIN-S3L910SE45K!, Account Domain: BORINGOFFICE, Logon ID: 0x3d6, Logon Type: 3
